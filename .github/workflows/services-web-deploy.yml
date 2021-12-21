@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-
+      - add-deployment-github-action
 jobs:
   deploy:
     runs-on: ubuntu-latest
