@@ -28,4 +28,4 @@ It all starts with the `./generators/index.js` file.
 1. Create a new directory in `./templates/services`. Lower case letters and hyphens only.
 1. Use the `*.hbs` file extension and Handlebar template syntax for files with dynamic content.
 
-Look at other service templates in `./templates/services` for further guidance.
+Look at other service templates in `./templates/services` for further guidance
